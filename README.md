@@ -40,3 +40,20 @@ Slutresultat/Analys/Diskussion
 - Buggar
 - Förbättringar
 - Övrigt
+
+LOG
+---
+- 15/10/2014
+Idag har jag förstått mer vad det är jag ska göra, jag har även forkat från
+GitHub, Problemmet för tillfället är ingen men jag lovar att det kommer många 
+snart. Till nästa gång ska jag börja skriva av GeoShapes filarna till 
+inlämmningsuppgiften.
+
+-17/10/2014
+Jag har tid hos läkaren så jag missar lektionen.
+
+-22/10/2014
+Jag är hemma pågrund av att jag är sjuk och missar lektionen.
+
+-24/10/2014
+Idag har jag skrivt på min MainGUI. Jag har även fattat vad klasserna gör.
