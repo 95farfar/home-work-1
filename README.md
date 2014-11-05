@@ -57,3 +57,7 @@ Jag är hemma pågrund av att jag är sjuk och missar lektionen.
 
 -24/10/2014
 Idag har jag skrivt på min MainGUI. Jag har även fattat vad klasserna gör.
+
+-5/11/2014
+Idag så har jag skrivit på subklasserna och även fått en klarare uppfattning om 
+hur jag ska göra i fortsättningen.

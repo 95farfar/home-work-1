@@ -18,6 +18,9 @@ public class MainGUI extends JFrame{
     private JMenuItem hjalp;
     private DrawPanel pdraw;
     
+    private EventWindow win;
+    private Turtle t;
+    
     public MainGUI(){
         initGUI();
     }
